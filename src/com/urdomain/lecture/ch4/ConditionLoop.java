@@ -29,10 +29,15 @@ public class ConditionLoop {
 					
 					
 //			switch
-//			
+//				조건에 값이오면
+//				switch case break default break
+//				정수, 문자열 가능
+		
+		
 //		반복문
 //			for
-//			
+//				끝을 
+		
 //			while : 무한루프
 //				
 //			do-while
