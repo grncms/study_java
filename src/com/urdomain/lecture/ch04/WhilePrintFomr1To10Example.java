@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch4;
+package com.urdomain.lecture.ch04;
 
 public class WhilePrintFomr1To10Example {
 

@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch4;
+package com.urdomain.lecture.ch04;
 
 public class ForPrintFrom1To10Example {
 

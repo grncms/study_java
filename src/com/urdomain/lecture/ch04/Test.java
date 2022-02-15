@@ -1,3 +1,4 @@
+package com.urdomain.lecture.ch04;
 //package com.urdomain.lecture.ch4;
 //
 //public class Test {
