@@ -1,4 +1,4 @@
-package com.urdomain.lecture.ch06;
+package com.urdomain.lecture.exc;
 
 public class Car {
 
