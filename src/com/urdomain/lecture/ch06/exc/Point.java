@@ -1,4 +1,4 @@
-package com.urdomain.lecture.exc;
+package com.urdomain.lecture.ch06.exc;
 
 public class Point {
 
