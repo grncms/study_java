@@ -4,7 +4,7 @@ public class MyFriendDetailInfoExample {
 
 	public static void main(String[] args) {
 		
-		My
+		MyFriendDetailInfo myfriend
 		
 		
 		
