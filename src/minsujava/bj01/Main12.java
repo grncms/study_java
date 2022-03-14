@@ -1,4 +1,4 @@
-package minsujava01;
+package minsujava.bj01;
 
 import java.util.Scanner;
 

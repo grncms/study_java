@@ -1,14 +1,16 @@
-package minsujava01;
+package minsujava.bj01;
 
 import java.util.Scanner;
 
-public class Main10 {
+public class Main11 {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println(sc.next() + "??!");
 		
+		int a = sc.nextInt();
+		
+		System.out.println(a - 543);
 		
 	}
 
